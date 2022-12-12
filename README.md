@@ -1,5 +1,11 @@
 # Billing System
 A program that will help the user to track the total, reset, cost, and order whatever they want. 
+# Features
+1. Menu
+2. Quantity
+3. Total
+4. Bill
+5. Reset
 # Video Presentation
 https://youtu.be/NZAzY0iUFYA?fbclid=IwAR3aEYawgovQrp3XPclv13ItHLKuwL8Tpiz314r5mb2AZ4j8HFjM1ESaQrY
 
